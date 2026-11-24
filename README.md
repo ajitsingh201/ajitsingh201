@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ajeet+Singh+%F0%9F%91%8B;Chief+Marketing+Officer+%40+BraynupAI;Digital+Marketing+Team+Leader;Go-to-Market+%26+Brand+Growth;MERN+Stack+%26+Frontend+Developer;AI+Growth+Strategist;SEO+%26+Content+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ajeet+Singh;Chief+Marketing+Officer+%40+BraynupAI;Digital+Marketing+Team+Leader;Go-to-Market+%26+Brand+Growth;MERN+Stack+%26+Frontend+Developer;AI+Growth+Strategist;SEO+%26+Content+Expert" alt="Typing SVG" />
 
 **Helping brands grow through organic visibility, go-to-market strategy, performance marketing & modern web solutions.**
 
@@ -13,24 +13,24 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎯 **Chief Marketing Officer** at **BraynupAI** — leading marketing, brand growth & business development (May 2025 – Present)
-- 💼 **Digital Marketing Team Leader** at **Venus Consulting Solutions**, Noida (Mar 2025 – Present)
-- 🧑‍💻 Building responsive, SEO-friendly web apps with **React.js, TypeScript & Tailwind CSS**
-- 📈 Go-to-market strategy, organic brand growth, SEO, social media, email & WhatsApp marketing
-- 🎓 BCA – Amity University Online (2024 – 2027)
-- 🟢 **Open to new opportunities & collaborations**
+- **Chief Marketing Officer** at **BraynupAI** — leading marketing, brand growth & business development (May 2025 – Present)
+- **Digital Marketing Team Leader** at **Venus Consulting Solutions**, Noida (Mar 2025 – Present)
+- Building responsive, SEO-friendly web apps with **React.js, TypeScript & Tailwind CSS**
+- Go-to-market strategy, organic brand growth, SEO, social media, email & WhatsApp marketing
+- BCA – Amity University Online (2024 – 2027)
+- **Open to new opportunities & collaborations**
 
-### 📊 Impact at a Glance
+### Impact at a Glance
 
-| 👥 22K+ | 📈 159K+ | 🔍 90%+ | ⏳ 4+ |
+| 22K+ | 159K+ | 90%+ | 4+ |
 |:---:|:---:|:---:|:---:|
 | LinkedIn Followers | Annual Impressions (572% YoY) | SEO Growth | Years Experience |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Development**
 
@@ -65,22 +65,22 @@
 
 ---
 
-### 🗂️ Featured Work
+### Featured Work
 
 | Project | What I did |
 |---|---|
-| 📢 **Marketing, Brand & GTM Leadership** — *BraynupAI* | Leading marketing, admissions growth & business development; organic rankings up 60%+, automated lead nurturing |
-| 🔍 **AI-Driven SEO & Content Optimization** — *Venus Consulting Solutions* | On/off-page & technical SEO with AI tools; 159K+ LinkedIn impressions (572% YoY) |
-| 🌐 **SEO-Optimized Web Applications** — *Personal Projects* | Mobile-first React/TypeScript/Tailwind sites tuned for Core Web Vitals |
-| 📣 **Social Media Growth Strategy** — *Digi Tech* | Content calendars & data-backed engagement; grew LinkedIn to 22K+ |
-| ⚙️ **SEO & WordPress E-commerce** — *IRA Soft Consultancy* | Ranked a client site in Google's top 10; built a WordPress e-commerce store |
-| 🎨 **Brand Design & Digital Collateral** — *Ducat India* | Social creatives, brochures, promo videos & presentations |
+| **Marketing, Brand & GTM Leadership** — *BraynupAI* | Leading marketing, admissions growth & business development; organic rankings up 60%+, automated lead nurturing |
+| **AI-Driven SEO & Content Optimization** — *Venus Consulting Solutions* | On/off-page & technical SEO with AI tools; 159K+ LinkedIn impressions (572% YoY) |
+| **SEO-Optimized Web Applications** — *Personal Projects* | Mobile-first React/TypeScript/Tailwind sites tuned for Core Web Vitals |
+| **Social Media Growth Strategy** — *Digi Tech* | Content calendars & data-backed engagement; grew LinkedIn to 22K+ |
+| **SEO & WordPress E-commerce** — *IRA Soft Consultancy* | Ranked a client site in Google's top 10; built a WordPress e-commerce store |
+| **Brand Design & Digital Collateral** — *Ducat India* | Social creatives, brochures, promo videos & presentations |
 
-**🌍 Live client websites:** Detective agency, export-business and IT-company sites built with React, PHP and HTML — see the pinned repositories below.
+**Live client websites:** Detective agency, export-business and IT-company sites built with React, PHP and HTML — see the pinned repositories below.
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **Chief Marketing Officer** · BraynupAI · *May 2025 – Present*
 - **Digital Marketing Team Leader** · Venus Consulting Solutions · *Mar 2025 – Present*
@@ -89,13 +89,13 @@
 - **Digital Marketing Executive** · IRA Soft Consultancy Services · *Jul 2023 – Mar 2024*
 - **Graphic Designer** · Ducat India · *Nov 2022 – Jul 2023*
 
-### 🏅 Certifications
+### Certifications
 
 Digital Marketing · Graphic Designing · Generative AI for Digital Marketers · SEO Foundations · Social Media Marketing
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Digital Marketing · Graphic Designing · Generative AI for Digital Marketers ·
 
 <div align="center">
 
-**💬 Let's build something that grows your business — [ajitsingh201301@gmail.com](mailto:ajitsingh201301@gmail.com)**
+**Let's build something that grows your business — [ajitsingh201301@gmail.com](mailto:ajitsingh201301@gmail.com)**
 
 ![Profile views](https://komarev.com/ghpvc/?username=ajitsingh201&color=00c8ff&style=flat-square)
 
