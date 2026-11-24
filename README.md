@@ -17,7 +17,7 @@
 
 - 💼 **Digital Marketing Team Leader** at **Venus Consulting Solutions Pvt. Ltd.**, Noida (Mar 2024 – Present)
 - 🧑‍💻 Building responsive, SEO-friendly web apps with **React.js, TypeScript & Tailwind CSS**
-- 🤖 AI-first approach to SEO, AEO/GEO, marketing automation and team workflows
+- ⚡ AI-first approach to SEO, AEO/GEO, marketing automation and team workflows
 - 🎓 BCA – Amity University Online (2024 – 2027)
 - 🟢 **Open to new opportunities & collaborations**
 
@@ -55,15 +55,12 @@
 ![Meta](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 
-**Design & AI Tools**
+**Design Tools**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -71,7 +68,7 @@
 
 | Project | What I did |
 |---|---|
-| 🤖 **360° AI-Powered Marketing Strategy** — *BraynupAI* | AI-driven brand visibility & lead generation; organic rankings up 60%+, automated lead nurturing |
+| 📢 **360° AI-Powered Marketing Strategy** — *BraynupAI* | AI-driven brand visibility & lead generation; organic rankings up 60%+, automated lead nurturing |
 | 🔍 **AI-Driven SEO & Content Optimization** — *Venus Consulting Solutions* | On/off-page & technical SEO with AI tools; 159K+ LinkedIn impressions (572% YoY) |
 | 🌐 **SEO-Optimized Web Applications** — *Personal Projects* | Mobile-first React/TypeScript/Tailwind sites tuned for Core Web Vitals |
 | 📣 **Social Media Growth Strategy** — *Digi Tech* | Content calendars & data-backed engagement; grew LinkedIn to 21K+ |
